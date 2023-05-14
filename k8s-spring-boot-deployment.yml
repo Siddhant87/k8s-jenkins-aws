@@ -24,7 +24,7 @@ spec:
 apiVersion: v2
 kind: Service
 metadata:
-  name: sid-springboot
+  name: sidd-springboot
 spec:
   type: LoadBalancer
   ports:
